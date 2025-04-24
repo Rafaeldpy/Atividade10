@@ -1,0 +1,24 @@
+ h1 {
+    color: blue
+}
+n1 { color: blueviolet;
+    background-color: black; 
+}
+
+n2 {
+    color: aquamarine;
+    background-color: azure;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: auto;
+    height: auto;
+    border-radius: 10%;
+}
